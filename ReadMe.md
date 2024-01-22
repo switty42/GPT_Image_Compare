@@ -23,4 +23,6 @@ This project seeks to measure the ability of ChatGPT 4 Vision to identify object
 - Place your own OpenAI API key toward the top of the Python script
 - Edit the program constants as needed at the top of the Python script
 - Copy source photos into PIC_DIR (find sample photos in this repository)
+- The script determines if a group of photos are the same object by file name convention
+- For matching objects, the first character of the file name should be the same
 - DO NOT place a photo named pic.jpg into the PIC_DIR. This name is used as a temp working name
