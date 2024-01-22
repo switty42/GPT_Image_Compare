@@ -2,7 +2,7 @@
 # Author - Stephen Witty switty@level500.com
 # Started 1-19-24
 # Description - ask GPT to compare two images and ask if object in the photograph is the same object
-# Example  used  from openai for vision gpt
+# Example used from openai for vision gpt
 # To run:
 #     tested on ubuntu
 #     install OpenAI Python lib (see OpenAI website for instructions)
@@ -21,7 +21,7 @@ import subprocess
 import re
 
 # OpenAI API Key
-api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 ##################### Constants ###########################################################################################
 COUNT = 10                                              # Number of times to run the test
