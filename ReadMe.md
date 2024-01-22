@@ -5,7 +5,7 @@ Docs 1-22-24 V1 (For questions or comments:  Stephen Witty switty@level500.com)
 This project seeks to measure the ability of ChatGPT 4 Vision to identify objects in an image as either the same object or a different object.  This includes the same object in different front-facing orientations.   The project implements an automated approach of selecting random images from a source pool, combining the images, and then submitting them to ChatGPT to determine if the two objects in the image are either the same or different.  The resulting reply from ChatGPT is then evaluated to determine if the answer is correct.  Statistics are kept over multiple test runs and reported at the testing conclusion.  Sample results can be found in the below presentation along with a video with a sample execution.
   
 
-<img src="Pics/Sample_Compare.jpg" width="650">
+<img src="Pics/Sample_Compare.jpg" width="400">
 
 ### Reports / Documentation:
 - A presentation that covers the project can be found below:
