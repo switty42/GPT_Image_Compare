@@ -10,6 +10,7 @@
 #     install package with banner command
 #
 # V1 1-19-24   Initial development
+# V2 1-22-24   Fixed typo in prompt
 
 import random
 import time
@@ -21,7 +22,7 @@ import subprocess
 import re
 
 # OpenAI API Key
-api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 ##################### Constants ###########################################################################################
 COUNT = 10                                              # Number of times to run the test
@@ -229,7 +230,7 @@ while (total < COUNT):
       no_answer = no_answer + 1
       continue
 
-   print("GPt answer are they the same object: " + answer) 
+   print("GPT answer are they the same object: " + answer) 
 ################ End Extract GPT answer #######
 
    good = False # This controls the good or bad banner
