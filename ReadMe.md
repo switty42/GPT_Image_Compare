@@ -11,7 +11,7 @@ This project seeks to measure the ability of ChatGPT 4 Vision to identify object
 - A presentation that covers the project can be found below:
 - [Presentation Link](https://github.com/switty42/GPT_Image_Compare/blob/main/Presentations/GPT_Image_Compare_012224.pdf)
 - Example run recorded:
-- [Video](https://youtu.be/nD5kaw60ufc)
+- [Video](https://youtu.be/BNX-2QrPaC8)
 
 ### Usage:
 
